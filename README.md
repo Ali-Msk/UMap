@@ -2,7 +2,7 @@
 ![Banner](/images/logo.jpg)
 # UMap
 <!--![Language Stats](/images/languageStats.png)<br/>-->
-UMap is a tourist-friendly map application that shows important information for different cities around the world. Written using C++, retrieves data using the OpenStreetMap Database API, and draws graphics using GTK.<br/>
+UMap is a user-friendly map application that shows important information for different cities around the world. Written using C++, retrieves data using the OpenStreetMap Database API, and draws graphics using GTK.<br/>
 
 NOTE: This project was made for the course ECE297 at the University of Toronto, and therefore, the source code is not available to the public.
 
